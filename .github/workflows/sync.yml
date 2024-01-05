@@ -1,12 +1,7 @@
 name: Config Update
 
 on:
-  push:
-    branches: [ main ]
   workflow_dispatch:
-  schedule:
-    - cron: '0 12 * * *'
-
 jobs:
   build:
     runs-on: ubuntu-latest
