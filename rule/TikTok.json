@@ -4,7 +4,6 @@
       "domain": [
         "bytedapm.com",
         "bytegecko-i18n.com",
-        "bytegecko.com",
         "byteoversea.com",
         "capcut.com",
         "ibytedtos.com",
@@ -25,7 +24,8 @@
         "tiktokd.net",
         "tiktokd.org",
         "tiktokmusic.app",
-        "tiktokv.com"
+        "tiktokv.com",
+        "tiktokv.us"
       ]
     },
     {
@@ -38,7 +38,6 @@
       "domain_suffix": [
         ".bytedapm.com",
         ".bytegecko-i18n.com",
-        ".bytegecko.com",
         ".byteoversea.com",
         ".capcut.com",
         ".ibytedtos.com",
@@ -56,7 +55,8 @@
         ".tiktokd.net",
         ".tiktokd.org",
         ".tiktokmusic.app",
-        ".tiktokv.com"
+        ".tiktokv.com",
+        ".tiktokv.us"
       ]
     }
   ],
